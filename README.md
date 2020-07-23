@@ -1,6 +1,6 @@
 :wave: Hello, I'm Brandon, and welcome to my profile!
 
-![alt-text](https://github.com/ImNotOriginal/ImNotOriginal/blob/master/giphy.gif)
+![Squirtle gif](https://github.com/ImNotOriginal/ImNotOriginal/blob/master/giphy.gif)
 
 ## Quick Facts
 - 🌽 Live in Nebraska
@@ -12,3 +12,5 @@
 - Junior Dev. 
 - Integrated Cypress.io for Unit Testing
 - Converted Userguides to Mark-up Language
+
+![alt-text](![ImNotOriginal - Octocat](https://github.com/ImNotOriginal/ImNotOriginal/blob/master/octocat.png))
