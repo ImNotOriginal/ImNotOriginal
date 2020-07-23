@@ -1,3 +1,4 @@
+# About Me
 :wave: Hello, I'm Brandon, and welcome to my profile!
 
 ![Squirtle gif](https://github.com/ImNotOriginal/ImNotOriginal/blob/master/giphy.gif)
@@ -8,12 +9,11 @@
 - 🎮 Gamer
 - 🌮 Foodie
 - 🎓 Lifetime Learner
+- 🖥️ Tech Enthusiast 
 
 ## Experince
-- Fairly new to Programing but excited to learn more
-- Junior Dev. 
-- Integrated Cypress.io for Unit Testing
-- Converted Userguides to Mark-up Language
+- Junior Dev
+- Integration of Cypress.io for Unit Testing
 
 ### MY OctoCat
 ![ImNotOriginal - Octocat](https://github.com/ImNotOriginal/ImNotOriginal/blob/master/octocat.png)
