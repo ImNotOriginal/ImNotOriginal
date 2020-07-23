@@ -1,6 +1,6 @@
 :wave: Hello, I'm Brandon, and welcome to my profile!
 
-file: ![alt-text](link)
+file: ![alt-text](https://github.com/ImNotOriginal/ImNotOriginal/blob/master/giphy.gif)
 
 ## Quick Facts
 - 🌽 Live in Nebraska
