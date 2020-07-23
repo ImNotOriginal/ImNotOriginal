@@ -12,5 +12,5 @@
 - Junior Dev. 
 - Integrated Cypress.io for Unit Testing
 - Converted Userguides to Mark-up Language
-
-![alt-text](![ImNotOriginal - Octocat](https://github.com/ImNotOriginal/ImNotOriginal/blob/master/octocat.png))
+### MY OctoCat
+(![ImNotOriginal - Octocat](https://github.com/ImNotOriginal/ImNotOriginal/blob/master/octocat.png)
