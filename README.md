@@ -13,4 +13,4 @@
 - Integrated Cypress.io for Unit Testing
 - Converted Userguides to Mark-up Language
 ### MY OctoCat
-(![ImNotOriginal - Octocat](https://github.com/ImNotOriginal/ImNotOriginal/blob/master/octocat.png)
+![ImNotOriginal - Octocat](https://github.com/ImNotOriginal/ImNotOriginal/blob/master/octocat.png)
