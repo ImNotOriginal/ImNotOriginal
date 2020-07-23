@@ -7,8 +7,8 @@
 - ⛩️ Huge anime Fan
 - 🎮 Gamer
 
-##Experince
-### Fairly new to Programing but excited to learn more
+## Experince
+- Fairly new to Programing but excited to learn more
 - Junior Dev. 
 - Integrated Cypress.io for Unit Testing
 - Converted Userguides to Mark-up Language
